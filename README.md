@@ -1,0 +1,1 @@
+# bashscripttest--DNScheck
